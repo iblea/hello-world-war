@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World! git web-hook test ! </title>
+<title>Hello World! test </title>
 </head>
 <body>
 	<h1>Hello World!</h1>
